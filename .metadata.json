@@ -2,9 +2,5 @@
   {
     "package": "bmass",
     "oncran": true
-  },
-  {
-    "package": "MAPITR",
-    "oncran": true
   }
 ]

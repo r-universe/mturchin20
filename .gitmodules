@@ -8,8 +8,3 @@
 	url = https://github.com/mturchin20/bmass
 	shallow = true
 	registered = true
-[submodule "MAPITR"]
-	path = MAPITR
-	url = https://github.com/mturchin20/mapitr
-	shallow = true
-	registered = true
