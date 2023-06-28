@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bmass"]
 	path = bmass
 	url = https://github.com/mturchin20/bmass
-	shallow = true
-	registered = true
 [submodule "MAPITR"]
 	path = MAPITR
 	url = https://github.com/mturchin20/mapitr
-	shallow = true
-	registered = true
