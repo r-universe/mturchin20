@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bmass"]
-	path = bmass
-	url = https://github.com/mturchin20/bmass
 [submodule "MAPITR"]
 	path = MAPITR
 	url = https://github.com/mturchin20/mapitr
+[submodule "bmass"]
+	path = bmass
+	url = https://github.com/mturchin20/bmass
